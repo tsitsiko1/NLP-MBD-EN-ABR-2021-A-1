@@ -18,8 +18,6 @@ Knowledge graph embedding algorithms can capture structured knowledge about conc
 This notebooks are part of the tutorial [Hybrid Techniques for Hybrid Natural Language Processing](http://hybridnlp.expertsystemlab.com/tutorial/). The complete lessons, materials and resources of the tutorial can be found here [here](http://hybridnlp.expertsystemlab.com/tutorial/index.php/sample-page/). If you prefer, you can find all the Jupyter notebooks of the different lessons in the tutorial [repo](https://github.com/hybridnlp/tutorial).
 
 ## Bibliography
-## Bibliography
-
 The following book is focused on the concepts illustrated here:
 
 **_Jose Manuel Gomez-Perez, Ronald Denaux and Andres Garcia-silva. 2020. A Practical Guide to Hybrid Natural Language Processing - Combining Neural Models and Knowledge Graphs for NLP. https://doi.org/10.1007/978-3-030-44830-1_**
