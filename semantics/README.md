@@ -11,7 +11,7 @@ Our [first notebook](https://github.com/hybridnlp/tutorial/blob/master/01_captur
 ### Knowledge Graph Embeddings
 Word embeddings aim at capturing the meaning of words based on large corpora; however, there are decades of experience and approaches that have tried to capture meaning by structuring knowledge into semantic networks, ontologies and graphs. Examples of such resources include lexical knowledge graphs like WordNet. The [second notebook](https://github.com/hybridnlp/tutorial/blob/master/02_knowledge_graph_embeddings.ipynb) shows how to leverage such resources and calculate representations of their content, like lemmas, senses, and the relations between them, in a common vector space.
 
-### Building a vecsigrafo – generating hybrid representations from text corpora and knowledge graphs.
+### Hybrid representations from text corpora and knowledge graphs
 Knowledge graph embedding algorithms can capture structured knowledge about concepts and relations in a graph as embeddings in a vector space, which then can be used in downstream tasks. However, this type of approaches can only capture the knowledge that is explicitly represented in the graph, hence lacking in recall and domain coverage. Here we include tow examples of algorithms that address this limitation through the combination of information from both unstructured text corpora and structured knowledge graphs. The [third notebook](https://github.com/hybridnlp/tutorial/blob/master/03_vecsigrafo.ipynb) shows how to combine document corpora and knowledge graphs to learn richer representations that better capture the meaning of words.
 
 ## Resources
