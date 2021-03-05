@@ -14,11 +14,6 @@ Word embeddings aim at capturing the meaning of words based on large corpora; ho
 ### Hybrid representations from text corpora and knowledge graphs
 Knowledge graph embedding algorithms can capture structured knowledge about concepts and relations in a graph as embeddings in a vector space, which then can be used in downstream tasks. However, this type of approaches can only capture the knowledge that is explicitly represented in the graph, hence lacking in recall and domain coverage. Here we include toy examples of algorithms that address this limitation through the combination of information from both unstructured text corpora and structured knowledge graphs. The [third notebook](https://github.com/hybridnlp/tutorial/blob/master/03_vecsigrafo.ipynb) shows how to combine document corpora and knowledge graphs to learn richer representations that better capture the meaning of words.
 
-## Resources
-This notebooks are part of the tutorial [Hybrid Techniques for Hybrid Natural Language Processing](http://hybridnlp.expertsystemlab.com/tutorial/). The complete lessons, materials and resources of the tutorial can be found [here](http://hybridnlp.expertsystemlab.com/tutorial/index.php/sample-page/). You can find all the notebooks of the tutorial in its [repo](https://github.com/hybridnlp/tutorial).
-
-## Bibliography
-The following book is focused on the concepts illustrated here:
-
-**_Jose Manuel Gomez-Perez, Ronald Denaux and Andres Garcia-silva. 2020. A Practical Guide to Hybrid Natural Language Processing - Combining Neural Models and Knowledge Graphs for NLP. https://doi.org/10.1007/978-3-030-44830-1_**
+## Additional resources and bilbiography
+This notebooks are part of the tutorial [Hybrid Techniques for Hybrid Natural Language Processing](http://hybridnlp.expertsystemlab.com/tutorial/). The complete lessons, materials and resources of the tutorial can be found [here](http://hybridnlp.expertsystemlab.com/tutorial/index.php/sample-page/). You can find all the notebooks of the tutorial in its [repo](https://github.com/hybridnlp/tutorial). The following book is focused on the concepts illustrated here: _Jose Manuel Gomez-Perez, Ronald Denaux and Andres Garcia-silva. 2020. A Practical Guide to Hybrid Natural Language Processing - Combining Neural Models and Knowledge Graphs for NLP. https://doi.org/10.1007/978-3-030-44830-1_
 
