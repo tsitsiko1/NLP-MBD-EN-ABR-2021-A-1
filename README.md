@@ -67,7 +67,7 @@ That way, whenever you join a new project, it’s easy to start working without 
 Installing the required libraries in our environment it’s as easy as follows (the requirements.txt is the file included in this repository):
 
 ```
-pip install -r requirements.txt
+pip install -Uqqr requirements.txt
 ```
 
 ## Open a Jupyter/JupyterLab session with our current environment
