@@ -1,3 +1,4 @@
+transformers
 nltk
 camel-tools
 stanza
@@ -17,4 +18,4 @@ git+https://github.com/amaiya/eli5@tfkeras_0_10_1
 git+https://github.com/amaiya/stellargraph@no_tf_dep_082
 tqdm
 optuna==2.3.0
-transformers
+
