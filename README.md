@@ -7,6 +7,8 @@ Please read carefully the following instructions to setup the environment needed
 
 # Using the NLP environment
 
+This section covers the instructions to configure the repo for executing locally the practice notebooks. If you do not have a GPU or you prefer to avoid the complexity of the local configuration and to execute them remotely, please refer to the section [Working with GPUs](#working-with-gpus)
+
 ## Create the working directory
 
 On your computer, create the directory on which you want to work. In my case, it's called `natural_language_processing`.
